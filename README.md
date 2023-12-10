@@ -1,2 +1,2 @@
 # EN.605.645 Artificial Intelligence
- 
+This repository contains the programing assignments for Johns Hopkins' EN.605.645 Artificial Intelligence class taught in Summer 2023. All of the programming assignments are presented as Jupyter Notebooks.
